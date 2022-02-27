@@ -1,0 +1,1011 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An olive branch found after a storme in the northern seas. And presented to his Majesty in a sermon at the court in New-Castle. / By Samuel Kem, a little before his Majesties going to Holmbey. Published according to order.</title>
+            <author>Kem, Samuel, 1604-1670.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 53 KB of XML-encoded text transcribed from 22 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A87670</idno>
+            <idno type="STC">Wing K253</idno>
+            <idno type="STC">Thomason E382_7</idno>
+            <idno type="STC">ESTC R201426</idno>
+            <idno type="EEBO-CITATION">99861937</idno>
+            <idno type="PROQUEST">99861937</idno>
+            <idno type="VID">114083</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A87670)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 114083)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 61:E382[7])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An olive branch found after a storme in the northern seas. And presented to his Majesty in a sermon at the court in New-Castle. / By Samuel Kem, a little before his Majesties going to Holmbey. Published according to order.</title>
+                  <author>Kem, Samuel, 1604-1670.</author>
+               </titleStmt>
+               <extent>[12], 24 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by J.D. &amp; R.I. for Andrew Kembe, and are to bee sold at his shop, at Margaret Hill, next doore to the Talbot-Gate in Southwark.,</publisher>
+                  <pubPlace>London. :</pubPlace>
+                  <date>1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A variant has "B.D." following Kem's name in line 8 of title.</note>
+                  <note>Annotation on Thomason copy: "March 29".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  N.T. --  Thessalonians, 2nd III, 16 --  Sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Peace --  Sermons.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Simon Charles</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Simon Charles</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:114083:1" rendition="simple:additions"/>
+            <p>AN OLIVE BRANCH Found after A Storme in the Northern Seas. AND
+Preſented to his MAJESTY in a Sermon at the Court in
+<hi>New-Caſtle.</hi>
+            </p>
+            <p>By SAMUEL KEM, a little before his <hi>Majeſties</hi> going to
+<hi>HOLMBEY.</hi>
+            </p>
+            <q>
+               <bibl>GEN. 8.10,11.</bibl> 
+               <p>And he ſtayed yet other ſeven dayes and againe he ſent forth
+the Dove out of the Ark: And the Dove came into him in the evening, and loe in
+her mouth was an Olive ſprig pluckt off: So <hi>Noah</hi> knew the waters
+were abated</p>
+            </q>
+            <q>
+               <bibl>HAGGAI 2.9.</bibl> 
+               <p>Thus ſhall the glory of the latter Houſe bee greater then the
+former ſayeth the Lord of Hoaſts, and in this place will I give peace
+ſaith the Lord of Hoaſts.</p>
+            </q>
+            <p>
+               <hi>Publiſhed according to Order.</hi>
+            </p>
+            <p>
+               <hi>LONDON.</hi> Printed by <hi>J. D.</hi> &amp; <hi>R. I.</hi>
+for <hi>Andrew Kembe,</hi> and are to bee ſold at his ſhop, at <hi>Margaret
+Hill,</hi> next doore to the Talbot-Gate in Southwark. 1647.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:114083:2"/>
+            <pb facs="tcp:114083:2"/>
+            <head>TO THE KINGS MOST Excellent Majeſty.</head>
+            <opener>
+               <salute>May it pleaſe your Majeſty,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">W</seg>Hen the King of Kings had faſted forty dayes and forty nights,
+hee was afterward an hungered: (although aſ<g ref="char:EOLhyphen"/>ſiſted by the deitie) and
+then for any within knowledge of it to neglect admi<g ref="char:EOLhyphen"/>niſtring to him a
+morſell had really con<g ref="char:EOLhyphen"/>cluded them guilty of the higheſt ingra<g ref="char:EOLhyphen"/>titude and
+inhumanity. <hi>Man lives not by bread alone but by every word that proceedeth
+out of the mouth of<pb facs="tcp:114083:3"/>God<g ref="char:punc">▪</g>
+               </hi> Which your long abstinence from,
+in relation to publique adminiſtration; hath put mee upon this bold attempt,
+in tender compaſsion to your better part; as to preſent you with a branch
+the fruit whereof will, if ſavoured ſenſibly, pro<g ref="char:EOLhyphen"/>cure an appetite, to
+thoſe delicates, which by more excellent hands are ready at your call to be
+ſerved in unto you: which de<g ref="char:EOLhyphen"/>gree of recovery will diſrobe thouſands of
+Gods people, and your faithfull Sub<g ref="char:EOLhyphen"/>jects of their ſad and ſable thoughts,
+and ſerve up their hearts to the higheſt de<g ref="char:EOLhyphen"/>gree of prayſe that hath, in
+relation to his glory, and your good, ſo far heard their prayers.</p>
+            <p>Thus, thus <hi>Sir,</hi> if your Majeſty pleaſe to forſake
+your nets that intangle you; deny your ſelfe, and your ſelf-rea<g ref="char:EOLhyphen"/>ſoning
+audience that aſſault You, and<pb facs="tcp:114083:3"/>follow Jeſus Chriſt in his
+ordinances the Prince of peace, whoſe name is <hi>Coun<g ref="char:EOLhyphen"/>cellor</hi> to
+adviſe you. You may yet create all good men your cordiall friends; and admit
+none to repine at your returne, but the Goſpells and Religions enimies.</p>
+            <p>Great <hi>Sir,</hi> If this plainneſſe bee an error it is my
+affection to your Majeſties ſoule makes mee to erre, and the proſ<g ref="char:EOLhyphen"/>perity
+of one fault, hath made mee con<g ref="char:EOLhyphen"/>fident to commit a ſecond; for I profeſſe
+I long after it, and make it one part of my deſigne, at the throne of grace,
+that God would ſo ſanctifie all your experien<g ref="char:EOLhyphen"/>ces for the time paſt; that
+you may be a gratious Inſtrument for the advancing of his glorious will for
+the time to come: And now the Lord grant you uſefull pro<g ref="char:EOLhyphen"/>fit, in peruſing
+my poore indeavours ſo as ſhall beſt ſort both for the
+accompliſh<g ref="char:EOLhyphen"/>ment<pb facs="tcp:114083:4"/>of your owne eternall good, and the Kingdomes
+juſt deſires, yea the Lord grant that as this ſermon received grace from
+you in hearing it with reverent attention; ſo it may increaſe grace in you
+by your ſerious intention. And the Lord of peace peaceably ſalute you by
+it: and grace you with all ſpirituall bleſsings till he bring you to injoy
+his, and your peoples firme love; your Parliaments councell; and Heavens Glory:
+which is and ſhall be the daily prayer of</p>
+            <closer>
+               <signed>Gods Majeſties poore Embaſſador to You in this
+Treatiſe of Peace, and Your Loyall Subject SAMUEL KEM.</signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb facs="tcp:114083:4"/>
+            <head>TO THE Right Honourable <hi>PHILIP</hi> Earle of <hi>Pembroke,
+BAZILL</hi> Earle of <hi>Denbeigh</hi> and the reſt of the <hi>Honourable
+Commiſsioners</hi> with His <hi>Majeſty</hi> at <hi>Holmbey.</hi>
+            </head>
+            <opener>
+               <salute>Right Honorable,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg> May not (without your leaves ob<g ref="char:EOLhyphen"/>tained) approach his
+<hi>Maieſty</hi> in perſon or paper; It is my duty to begge it; May it
+pleaſe your <hi>Lord<g ref="char:EOLhyphen"/>ſhips</hi> to grant it; I call God to record, and my
+conſcience is cleare, I neither have, nor will ſpeake one word but for his
+glory and the furthering, (if poſsible) the Kingdoms Peace and his
+Majeſties good. I ingenuouſly con<g ref="char:EOLhyphen"/>feſſe, if you ſearch, you may finde
+about me one Epiſtle ſuperſcribed to his Majeſty, but it is unſeal'd,
+and on purpoſe for your per<g ref="char:EOLhyphen"/>uſall; For my ſelfe I am unworthy to come
+under that roofe, being the meaneſt ſervant<pb facs="tcp:114083:5"/>in my
+<hi>Maſters</hi> Family; yet this Teſtimony I have in Heaven; I have ever
+deſired to doe the beſt ſervice I could in theſe ſad times, to
+promote the Peace of Church and State; and although I have obſerved many men
+to have beene thought rare at an eaſie rate; yet it hath beene a peece of my
+infelicity to multiply e<g ref="char:EOLhyphen"/>nemies by acting and ſpeaking to my power to
+ſettle Peace and Truth. Therefore as I implore your Lordſhips favour for
+your li<g ref="char:EOLhyphen"/>lence; ſo I humbly Petition your pardon for my boldneſſe; and
+preſent all your conditi<g ref="char:EOLhyphen"/>ons daily to the Throne of Grace; that as you have
+beene <hi>Pillers</hi> of Gods Truth; ſo you may be prevailing Councellors
+with His <hi>Maieſty,</hi> and be honored in your generations, which is the
+hearty and conſtant prayer my Noble Lords and Gentlemen Of</p>
+            <closer>
+               <signed>Your Obliged and Immutable Servant, SAMUEL
+KEM.</signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb facs="tcp:114083:5"/>
+            <head>TO THE Truly <hi>Noble, Faithfull, Vigilant</hi> and
+<hi>Valiant, William Batten</hi> Eſquire Captaine of His Majeſties Ship the
+St. <hi>Andrew,</hi> and Comman<g ref="char:EOLhyphen"/>der in Chiefe of the Fleet at Sea; for the
+ſervice of the <hi>King</hi> and <hi>Parliament.</hi>
+            </head>
+            <opener>
+               <salute>Moſt Honored and Noble Sir,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg> Shal deſire to wave all <hi>Apologeti<g ref="char:EOLhyphen"/>call</hi> expreſsions
+in relation to my ſelfe and the weakneſſe of this piece: You know that
+the quiet repoſe of the ſpiirit is the meanes to produce to the world,
+ſuch births as may inrich it with admiration and delight, which my floating
+condition denyed mee the happines to injoy, having my intellectualls ſo
+Searummaged that they returned me but darke &amp; unrefined notions: the
+product wherof are theſe poore expreſsions, void of all perfection, unles
+the heat of your affection and Noblenes pleaſe to hatch them to ſome formed
+beauty worthy acceptation: and to reduce the Chaos of my confuſions to a
+ſerenity worthy the worlds meditation: Hover therefore (I<pb facs="tcp:114083:6"/>
+               <gap reason="duplicate" resp="#OXF" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:114083:6"/>
+               <gap reason="duplicate" resp="#OXF" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:114083:7"/>beſeech you) with the wings of your
+protection over theſe feeble, but ſyncere indeavours, to promote, in this
+Iuncto of time, with his <hi>Majeſty</hi> for a ſetled and well grounded
+Peace: for which I have eſteemed my life as a trifle in way of purchaſe,
+and have for ſome yeares paſt; waded through variety of difficulties to
+this end. And although the ina<g ref="char:EOLhyphen"/>countable and uncontroleable waters, with their
+in<g ref="char:EOLhyphen"/>dependent ragings, ſunke me to the eye of ſenſe; yet God provided
+ſomething like a <hi>Whale,</hi> that by a ſtrange <hi>providence,</hi>
+caſt me on ſhore (to behold) that which I beleived; and believing
+maintained; Our Brethren of Scotland their integrity to <hi>Our</hi> mutuall
+<hi>Covenant</hi> and the Kingdomes ſafety: and to act that which I never
+expected, as a poore meſſenger from the <hi>Prince</hi> of <hi>Peace,</hi>
+to ſalute his <hi>Majeſty</hi> juſt before the comming of our <hi>Right
+Honourable Commiſsioners,</hi> as a providenti<g ref="char:EOLhyphen"/>all preparation to their
+invitation of him to take the <hi>Covenant,</hi> and in this <hi>now</hi> of
+time to accept of the <hi>Olive Branch of Peace,</hi> the beſt fignall
+<hi>be<g ref="char:EOLhyphen"/>twixt King and Parliament;</hi> if well grounded. For whoſe experience
+doth not informe him, what diſmall confuſion is, as the worſt of plagues,
+upon us? Even amongſt thoſe I meane, who profeſſe themſelves to be
+Children of Gods owne Family?<pb facs="tcp:114083:7"/>Since the breach of the bond of Love
+amongſt our ſelves how diſpicable are <hi>Paſtors</hi> to their
+<hi>ſheepe?</hi> how are the prophane and Irreligious ſtrengthned in their
+impiety? how doth the common adverſary of Gods Truth jeare at this our folly?
+and ſecretly as ſpectatours behind the curtaine, make themſelves ſport
+to ſee us ſo violently and induſtriouſly acting for them what they
+could never effect, with all their helliſh plots for themſelves to this
+day, ruine (if God prevent not) to our ſelves; and open a gap for them to
+enter and injoy proſperity. It hath ſe<g ref="char:EOLhyphen"/>verall times affected and afflicted
+me to ſee ſo ma<g ref="char:EOLhyphen"/>ny dying and wounded bodyes conveying out their ſoules in
+ſtreames of bloud; but it hath lately a<g ref="char:EOLhyphen"/>frighted me to ſee the very heart
+of true Piety vul<g ref="char:EOLhyphen"/>turated ſince our fiery zeale to Chriſts honor is
+Mo<g ref="char:EOLhyphen"/>nopolized into a conſuming fire of envy, malice &amp; undermining (in
+zeale to our owne private ends) each others honour. And although I have never
+made <hi>Arithmatick</hi> my ſtudy, yet I eaſily may ſum up what all our
+diviſions, ſubdiviſions, and ſad con<g ref="char:EOLhyphen"/>tentions amongſt our ſelves
+(when all profeſſe to be <hi>Children of him of whom the whole Fami<g ref="char:EOLhyphen"/>ly in
+heaven and earth is named</hi>) will amount unto. viz. To Chriſts Kingdomes
+diſbeautifying; Satans inlarging by impiety, ſuperſtition, aad
+he<g ref="char:EOLhyphen"/>reſie.<pb facs="tcp:114083:8"/>For what ever it coſt, I would not have the Family
+want ſolid and ſweet-refreſhing fire; yet would I not have any to be
+affected meerely with ſuch blazes as are not ſerviceable but to ſet the
+whole houſe on fire: which to prevent let us open the floud-gates of our
+ſoules, and turne the ſluces of our eyes heaven-ward; &amp; implore the
+great God to ſettle <hi>Goſpell Peace</hi> and <hi>Truth</hi> in his
+<hi>Majeſties three Kingdomes;</hi> and his <hi>Majeſty in Truth,</hi> to
+bee an happy inſtrument for the ſpeedy ſetling that peace, which may be
+for Gods glory; his peoples ſettlement, his Kingdomes inlargement; his owne
+felicity and all good to his poſterity; This Sir is the prayer of him, who
+is</p>
+            <closer>
+               <signed>Yours faithfully, In the ſervice of the Goſpel,
+and for the good of his country as obleiged SAMUEL KEM.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:114083:8"/>
+            <head>AN Olive Branch, found after a Storme in the Northern
+Seas.</head>
+            <epigraph>
+               <q>
+                  <bibl>2 THESS. 3.16.</bibl> 
+                  <p>Now the Lord of peace himſelfe give you peace alwayes, by all
+meanes.</p>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">I</seg>T is the happineſſe of the Church of God, that although they
+cannot give peace, yet they may get it: and although they can<g ref="char:EOLhyphen"/>not ſettle it
+on earth, they may ſeek it from heaven: and they have this of Gods own minde,
+for their incouragement; that he thinks thoughts of peace towards them, and to
+give them an expected end, <hi>Eſa.</hi> 29. ver. 11. and what is at any time
+moſt improbable to ſenſe is viſible to faith. And my preſent viſion
+is a ladder reaching from heaven to earth, and this ladder is Chriſt, by whom
+all our prayers have their paſſage to the Throne of grace: and their rich
+and faithfull returnes made from Gods Treaſury to ſupply all our wants.
+Which hath put me upon this deſigne in the travell of my ſoule, and I 
+<pb n="2" facs="tcp:114083:9"/>wiſh my words might have their paſſage through a ri<g ref="char:EOLhyphen"/>ver
+of teares, and every ſentence be ſwadled up in ſackcloth; and one, and
+all of us appeare on this lad<g ref="char:EOLhyphen"/>der as vile as duſt and aſhes: that in his
+glorious in<g ref="char:EOLhyphen"/>tereſt we might in this ſeaſon be found prevailers with God
+for this ſweet mercy of Peace, in relation to Your Majeſty, and your three
+poore laſſerated, di<g ref="char:EOLhyphen"/>ſtracted Kingdomes: And as I have not valued my
+life, ſo will I never think much of my labour, although Pioneer-like to
+caſt in any matter as rubbiſh, and my ſelf as dirt and clay to make up
+theſe Nationall brea<g ref="char:EOLhyphen"/>ches.</p>
+            <p>And of all effective meanes I finde none more ſpeeding then
+prayer, Eſay 29.11,12,13. <hi>Then ſhall you call upon mee, and you ſhall
+goe and pray unto me, and I will hearken unto you: and you ſhall ſeek me,
+and finde mee, when you ſhall ſearch for me with all your heart.</hi>
+            </p>
+            <p>And if ever it were ſeaſonable, now, yea now is Gods time, now
+your time, now its our time, now its high time, now, or it may be at no time.
+Now then if ever: and now although never: now what ever you doe, nay, now what
+ever you leave undone, let all that have intereſt in God through Jeſus
+Chriſt, become importunate petitioners, and heartily pray, <hi>Now the very
+God of peace, give you,</hi> with him, with us, <hi>Peace, alwayes, by all
+moanes.</hi>
+            </p>
+            <p>Thus hovering up and down upon the waters, I have at laſt made
+diſcovery of an <hi>Olive Branch;</hi> and what wee ſee by faith, the Lord
+aſſiſt us, as upon in<g ref="char:EOLhyphen"/>ſtruments in our ſeverall actings, to convey on
+the wing of prayer to the poore Ark, the Church of God,<pb n="3" facs="tcp:114083:9"/>blown
+up and down by the tempeſtuous winds of He<g ref="char:EOLhyphen"/>reſie, and Malignancy, that it
+may at laſt have hopes to ſettle on mount <hi>Ararat:</hi> and be firmely
+eſtabliſhed as <hi>mount Zion.</hi>
+            </p>
+            <p>And having this <hi>Olive branch</hi> in my mouth, give me leave
+to ſhew you the ſeverall ſprigs of it: which will yeeld fruite, to
+provoke our ſpirituall appetites; and ſuch oyle as will not onely
+repleniſh our lamps, to light us to Chriſt, the <hi>Prince of Peace,</hi>
+but poſſeſſe us of ſuch inward injoyments as hence forward to walk
+with a cheerful countenance: as poſſeſſed with it.</p>
+            <p>This <hi>Olive branch</hi> hath two more eminent ſprigs: 
+<list>
+                  <item>The firſt is, <hi>Peace its opportunity,</hi> Now</item>
+                  <item>The ſecond is <hi>Peace its gaining,</hi> in this
+ſeaſon: by <hi>importunity, by all meanes.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>Or if you pleaſe to have it in ſmaller parcels, you have 
+<list>
+                  <item>Firſt, its <hi>ſeaſon</hi> to be prayed for,
+<hi>Now.</hi>
+                  </item>
+                  <item>Secondly, the <hi>Donor,</hi> The <hi>Lord of peace give
+you Peace.</hi>
+                  </item>
+                  <item>Thirdly, the <hi>Donum, Peace.</hi>
+                  </item>
+                  <item>Fourthly, the <hi>Excellency</hi> of Gods peace above all
+other peace it is an alwayes peace, and an everlaſting peace.</item>
+               </list>
+            </p>
+            <p>
+               <hi>Obſervation,</hi>
+            </p>
+            <p>
+               <hi>And now I hope you ſee</hi> that ſeaſonable and
+impor<g ref="char:EOLhyphen"/>tunate prayer <hi>to God by Chriſt is a ſure way to obtaine a
+well-grounded and laſting, yea,</hi> an everlaſting Peace.</p>
+            <p>The learned can tell you that there is no bodily action betwixt
+<hi>hic &amp; nunc:</hi> and therefore the acting this duty will admit of no
+delay. <hi>Now,</hi> that's the ſea<g ref="char:EOLhyphen"/>ſon.</p>
+            <p>
+               <pb n="4" facs="tcp:114083:10"/>
+               <hi>Quere,</hi> I but why ſuch haſte?</p>
+            <p>
+               <hi>Sol.</hi> When I ſhall but tell you what peace is in the
+generall, and ſhew you the diſtinct members, you will be ſatisfyed; nay,
+not ſatisfyed without it.</p>
+            <p>In the generall, <hi>Peace is the well-being of all other
+in<g ref="char:EOLhyphen"/>joyments;</hi> all other mercies ſuck their liveli-hood at the breſt of
+peace: It is the Mother of all proſperity, in relation to <hi>Arts, Sciences,
+Trades,</hi> all flouriſh or wi<g ref="char:EOLhyphen"/>ther in peace her preſence or abſence. It
+is the Milch<g ref="char:EOLhyphen"/>nurſe of Religion, it thrives not in diviſions nor
+con<g ref="char:EOLhyphen"/>tentions, <hi>Act.</hi> 12. <hi>When the Church had peace, it in<g ref="char:EOLhyphen"/>creaſed
+exceedingly,</hi> did you ever know a body with all the members out of joynt,
+thrive? when one is for <hi>Paul,</hi> another for <hi>Apollos,</hi> and a
+third for <hi>Cephas,</hi> few or none, more then formally, follow Jeſus
+Chriſt. It is but one word, but it is big-bellyed with many, <hi>many
+mercies, Peace</hi> crownes the years with goodneſſe, and her paths drop
+fatneſſe. It is, or ſhould be, the felicity of the Saints on earth, and
+the glory of the Angels in Heaven. The Jewes cuſtome was, when they wiſhed
+all happineſſe, they uſed onely this ex<g ref="char:EOLhyphen"/>preſſion, <hi>Peace be with
+you.</hi>
+            </p>
+            <p>There is ſomething in this to affect us towards it, that all our
+endevours, Councells, Examples may act to this end. I am ſure it was
+<hi>Davids</hi> practiſe to pray for peace for the Church: when he might have
+pre<g ref="char:EOLhyphen"/>ferred his own eaſe, and Kingſhip, <hi>Pſal.</hi> 51.18. <hi>Be
+fa<g ref="char:EOLhyphen"/>vourable to</hi> Zion, <hi>build up the walls of</hi> Jeruſalem,
+<hi>then</hi> ſhalt thou accept <hi>the ſacrifices of righteouſneſſe.
+q.d.</hi> he will accept of no ſervices in diviſions. <hi>Moſes</hi>
+practiſe was for this, <hi>Davids</hi> counſell, <hi>Pauls</hi> ſtudies
+were bent to remove diviſions, and ſettle order and peace in the 
+<pb n="5" facs="tcp:114083:10"/>Church of God, 2 <hi>Tim.</hi> 2.23,24. <hi>Avoyd fooliſh
+que<g ref="char:EOLhyphen"/>ſtions,</hi> the ſervants of the Lord muſt not ſtrive: Sa<g ref="char:EOLhyphen"/>than is
+beſt known by his cloven foot: And the <hi>Py<g ref="char:EOLhyphen"/>thagorians</hi> have ſet a
+note of infamy on the figure of <hi>two:</hi> becauſe it firſt parts from
+<hi>unity.</hi> To conclude in generall, as the life of old <hi>Jacob</hi> was
+laid up in the life of the lad <hi>Benjamin,</hi> ſo all our happineſſe
+is inmantled in this: Peace with our God, and with one another.</p>
+            <p>More Particularly, Peace is diſtinguiſhed by theſe three
+notions, <hi>Externall, Internall, Eternall.</hi>
+            </p>
+            <p>It is of very large extent in Scripture.</p>
+            <p>Firſt, I finde it uſed to expreſſe the making up of that
+great breach betwixt God and Man, Chriſt re<g ref="char:EOLhyphen"/>conciling us to God, is ſtiled
+our <hi>Peace-maker: For he is our peace</hi> Epheſ. 2.14. <hi>Who hath made
+both one,</hi> 15 <hi>having aboliſhed in his fleſh the enmity. Rom.</hi>
+5.1. <hi>Be<g ref="char:EOLhyphen"/>ing juſtified by faith, we have peace with God.</hi>
+            </p>
+            <p>Secondly. For quietneſſe in conſcience which is a fruit of
+this peace. <hi>Rom.</hi> 14.17. when the commings of his ſmiling mercyes on
+the ſoule, when the ſtorme of our contracted guilt is over, and a ſweet
+calme in the Spirit that we may ſee his face.</p>
+            <p>Thirdly For mutuall concord betwixt man and man. <hi>Phil.</hi>
+4.2,3. <hi>Forbearing one another in Love,</hi> In<g ref="char:EOLhyphen"/>deavouring to <hi>Keepe the
+unity of the Spirit in the bond of peace. Pſal.</hi> 34.14. <hi>Depart from
+evill, doe good, ſeeke peace and purſue it.</hi> And had I time whilſt I
+am on this ſubject I could deſire to melt into teares, and preſent You
+with the ſad actings of theſe times, obvious to my owne experience.</p>
+            <p>Fourthly. For the preſence of all outward bleſſings and
+mercies to a people. <hi>Epheſ.</hi> 6.23. <hi>Peace be to the 
+<pb n="6" facs="tcp:114083:11"/>brethren.</hi> Which how farre from us we all know: and
+therefore full time to make towards them in the travels of our ſoules.</p>
+            <p>Fifthly, For the publicke tranquillitie and quiet eſtate of a
+Church when not troubled within, by blaſ<g ref="char:EOLhyphen"/>phemies, ſchiſmes, and
+hereſies, nor without by per<g ref="char:EOLhyphen"/>ſecuting enemies, <hi>Pſal.</hi> 122.6.
+<hi>O pray for the peace of Ieruſalem. Acts</hi> 9.31. Then had the
+<hi>Churches reſt</hi> (or peace) <hi>throughout all Iudea and Gallile and
+Samaria &amp; were edefyed, walking in the feare of the Lord and com<g ref="char:EOLhyphen"/>fort of
+the Holy Ghoſt, and were multiplyed.</hi>
+            </p>
+            <p>Sixtly. For the Tranquillity of the State when free from forraigne
+and civill warre 2 <hi>Kings</hi> 20.19. ſaid good <hi>King Hezekiah is it
+not good if Peace and Truth be in my dayes; Ier.</hi> 9.7 ſeeke the peace of
+the City. <hi>&amp;c.</hi>
+            </p>
+            <p>Seaventhly. Security from alarms, all Armes, and dangerous effects
+of warre: In the peace thereof you ſhall have peace.</p>
+            <p>Eightly, For an happy union by way of Covenant before God betwixt
+the King and his people. 2 <hi>Chro.</hi> 15. <hi>And they entred into Covenant
+to ſeeke the Lord God of their Fathers with all their heart, and ſoule, and
+all Iudah rejoyced at the oath and he was found of them, and the Lord gave them
+peace round about,</hi> which the Lord perſwade your heart unto, this day,
+for <hi>Ieſus Chriſt</hi> ſake.</p>
+            <p>And thus have I ſhowne you the ſpriggs of this branch: and the
+pathway for a ſound peace and the extent of Peace in the duty of prayer in
+this opportu<g ref="char:EOLhyphen"/>nity.</p>
+            <list>
+               <item>Firſt<g ref="char:punc">▪</g> Now God be freinds with every one of you in
+<hi>
+                     <gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>eſus Chriſt.</hi>
+               </item>
+               <item>
+                  <pb n="7" facs="tcp:114083:11"/>Secondly. The Lord give you peace in
+conſcience; a demonſtration of it, make your conſcience freinds with
+you.</item>
+               <item>Thirdly. make you friends one with another.</item>
+               <item>Fourthly. Multiply all bleſſings on you inward and out
+ward.</item>
+               <item>Fifthly ſend quieT in the Church.</item>
+               <item>Sixtly ſend quiet in the State and Kingdome from
+enemies.</item>
+               <item>Seaventhly. Send freedome from alarms and eaſe from taxes
+&amp;c.</item>
+               <item>Eightly. A mutuall agreement and covenant be<g ref="char:EOLhyphen"/>twixt King and
+people.</item>
+            </list>
+            <p>And thus have you the ſpriggs extended, I now come to the
+ſeaſon fore-goeing all; this preſcribed: <hi>Now</hi> you may review the
+Obſervation.</p>
+            <p>
+               <hi>That ſeaſonable and importunate prayer to God through
+Chriſt is a ſure way to obtaine the gift of a firme ſetled and well
+grounded peace with God and man.</hi>
+            </p>
+            <p>You are to know; I therefore adde ſeaſonable pray<g ref="char:EOLhyphen"/>er,
+becauſe there are as well unſeaſonable, as unrea<g ref="char:EOLhyphen"/>ſonable prayers abroad
+in the world: it was the folly of the Virgins that <hi>they cryed Lord Lord
+open unto us</hi> ſo late: there is a ſeaſon wherein God gives this gift
+and there is a ſeaſon wherin he will not give it.</p>
+            <p>There is a time for every thing, but there is an end of that time:
+<hi>There is a time when God is neere, and a time when he is farre off.</hi>
+Eſay. 55 <hi>Omnia tempus habent,</hi> and as true in this ſeaſon
+<hi>omnis qui querit in<g ref="char:EOLhyphen"/>venit,</hi> The Prophet preaching before King
+<hi>Manaſſes</hi> prayes him to ſeeke while he may be found, call
+whilſt he is neere, in ſome time if <hi>Moſes, Noah, Santuel,</hi> 
+               <pb n="6" facs="tcp:114083:12"/>
+               <gap reason="duplicate" resp="#OXF" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="7" facs="tcp:114083:12"/>
+               <gap reason="duplicate" resp="#OXF" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="8" facs="tcp:114083:13"/>ſhould pray he will not grant. Oh that we had the art to
+hit this <gap reason="foreign" resp="#OXF" extent="1 word">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> this joynt of time, I
+pray conſider that place in <hi>Luke</hi> 19.41,42. <hi>If thou hadſt
+knowne, e<g ref="char:EOLhyphen"/>ven thou at leaſt in this thy day, but now theſe things are hid
+from thine eyes.</hi> You cannot have roſes in winter, when the Angell moved
+the waters then was the nick of time to ſteppe in: elſe they might lye long
+enough for a healing: when the Lord ſaid <hi>ſeek my face,</hi> then King
+<hi>Davids</hi> ſoule Ecchoed <hi>Lord thy face doe I ſeeke.</hi> To
+miſſe a tyde or a winde, is to looſe a voy<g ref="char:EOLhyphen"/>age; in the 2 <hi>Cant.</hi>
+The Church drouſily neglecting her ſeaſon in the 3 <hi>Chap. Seekes it
+night and day,</hi> but <hi>ver.</hi> 1,2. <hi>found him not, Stephanus is his
+apologie for He<g ref="char:EOLhyphen"/>rodotus</hi> reports the practiſe of the warlike
+<hi>Scythian</hi> upon his tender of quarter aptly. Truly our ſeaſon and
+time of prayer for Peace is but like the Jewes feaſtes ſome laſted longer
+then others, yet none all the yeare. Sentences have their periods: I and <hi>ut
+ſenten<g ref="char:EOLhyphen"/>tiae, ſic regna.</hi>
+            </p>
+            <p>The old world had a ſeaſon of one hundred and twentie yeares,
+<hi>Iſraell</hi> in the Wilderneſſe but <hi>fortie yeares was hee grieved
+with that generation</hi> in <hi>Luke</hi> 13. <hi>but three yeares to the
+fig-tree</hi> under the Goſpell: ſo you ſee as meanes hath been more
+excellent; the ſea<g ref="char:EOLhyphen"/>ſon hath been ſhorter. Not that it is in the power of
+man to ſhorten it, but in ſin to provoke God to doe it. Our ſeaſon hath
+pantings, and yet life in it, although not health, the Lord heare our prayers
+to recover it out of its fits of convulſion: <hi>Is there no Balme in
+Gil<g ref="char:EOLhyphen"/>liad, that will doe it?</hi> 2 <hi>Chron.</hi> 7.14. <hi>If my people which
+are called by my name, ſhall humble themſelves, and pray, and ſeeke my
+face, and turne from their wicked wayes, I<pb n="9" facs="tcp:114083:13"/>will forgive their
+ſin and heale their land.</hi>
+            </p>
+            <p>1. <hi>Argument</hi>
+            </p>
+            <p>The ſeaſon of Peace, and the ſeaſonable praying for Peace,
+hath been preſcribed, limited, and termina<g ref="char:EOLhyphen"/>ted to all that have gone before
+us, in relation to Perſons, Kings, or Kingdomes: <hi>Eſaus</hi> ſeaſon
+paſt, he could never get a returne of the bleſſing although <hi>ſought
+with teares:</hi> The <hi>Gadarens</hi> could never get Chriſt over their
+water more; Nor the Iewes a ſecond ſeaſon as yet to learne Chriſt,
+<hi>loe I goe to the Gen<g ref="char:EOLhyphen"/>tiles Eſa.</hi> 6. <hi>Oſea</hi> 3.4. <hi>I have
+forſaken my houſe, I have left my heritage:</hi> The <hi>Monarchy</hi> of
+the <hi>Babilonians</hi> and <hi>Syrians</hi> was transferred to the
+<hi>Medes</hi> and <hi>Per<g ref="char:EOLhyphen"/>ſians,</hi> The <hi>Macedonians</hi> to the
+<hi>Romans,</hi> The <hi>Empire</hi> of <hi>Conſtantinople</hi> to the
+<hi>Ottoman Familie: Joſhua tooke ten ſtones out of Jordan and put other
+ten in the roome of them.</hi>
+            </p>
+            <p>Secondly, It is but juſt with God, if none find any want of this
+pretious Iewell, to ſhut up his cabinet, and ſee who will ſeeke after it:
+God alwayes ſub<g ref="char:EOLhyphen"/>ſtracts his mercies when they prove not uſefull to us, or
+wee ungratefull for them: God knowes as well how to take them from us, as
+tender them to us, <hi>Ho<g ref="char:EOLhyphen"/>ſea</hi> 2.3.9.</p>
+            <p>Thirdly, In relation to the Giver there can bee but a ſeaſon
+expected: It is the <hi>Mighty God King of Kings, unto whom all the Nations of
+the earth are but as a drop of a bucket,</hi> &amp;c. It becomes not Majeſty
+to waite long upon the tender of their favours, the Lord will give inward
+peace, and outward peace; but he will ſeaſonably be ſought to for it: It
+is no diſhonour for the greateſt Monarch to attend his Majeſty, but
+unbe<g ref="char:EOLhyphen"/>coming<pb n="10" facs="tcp:114083:14"/>him to waite a moment, on the greateſt earthly
+Prince: <hi>David</hi> eſteemed it the height of his ambition to be a
+<hi>doore keeper,</hi> under-value not then; to be a receiver and in capacitie
+to enioy his favour,</p>
+            <p>Uſe of Exhortation</p>
+            <p>If this be ſo that wee have but a <hi>Now</hi> for it: I
+be<g ref="char:EOLhyphen"/>ſeech you ſupport your drooping ſoules, becauſe al<g ref="char:EOLhyphen"/>though neere yet
+is not our ſeaſon paſt, for yet wee heare of peace from the cryers of
+peace in pub<g ref="char:EOLhyphen"/>lique: God hath not yet forbid us with <hi>Jeremiah not to cry
+peace unto you:</hi> cry for peace with mee.</p>
+            <p>Nay ſecondly, by a ſtrange kind of working on the heart, his
+meſſengers day and night ſeeke peace for the three Kingdomes and your
+Majeſty at the throne of grace, you are heartily preſented by many
+thouſands of religious conſcientious, holy, faithfull, Subjects in both
+<hi>Kingdoms</hi> for peace to your ſoul <hi>&amp;c.</hi> nor hath the Lord
+ſtopt our mouths as <hi>Jeremiah's</hi> 11.14. as yet to ſay to us <hi>pray
+not &amp;c.</hi>
+            </p>
+            <p>Yea, Thirdly, the conditions of Peace, and the Lords
+Propoſitions to be reconciled to him, are by his faithfull meſſengers
+preſented and by many accep<g ref="char:EOLhyphen"/>ted of; the Lord incline your Majeſties heart
+to ſigne for ever, his and your Kingdomes good.</p>
+            <p>Yea, it is your peoples hopes that you will with the Sun of
+righteouſneſſe gloriouſly ariſe with healing and peace under your
+wings, to your three Kingdomes, all ſore wounded, and in blood. This doore of
+hope open<g ref="char:EOLhyphen"/>ed let all our ſeaſonable prayers be preſented for this
+bleſſing of Peace: ply this work heartily I beſeech you.</p>
+            <p>1. Motive, you have but a <hi>Now</hi> ſor it, much of the 
+<pb n="11" facs="tcp:114083:14"/>ſeaſon ſpent; a great journey and little time puts
+up<g ref="char:EOLhyphen"/>on expedition and deſigne; <hi>Davids</hi> former experience of the
+miſery of warre puts him upon the deſigne of of Prayer for Peace:
+<hi>Pſal.</hi> 122. <hi>O pray,</hi> ſaith he, <hi>for the peace of
+Jeruſalem,</hi> and he plies it night and day, <hi>Finis operationis eſt
+opus.</hi>
+            </p>
+            <p>2 Motive, There is yet Peace to be had for his peo<g ref="char:EOLhyphen"/>ple, and
+although with <hi>Joſeph,</hi> for a time, he hath ſpo<g ref="char:EOLhyphen"/>ken ruffely unto us,
+<hi>Gen.</hi> 45.1. yet I am conſident he yernes in his bowells to us; he
+cannot contain him<g ref="char:EOLhyphen"/>ſelfe longer, ere he reveale himſelf unto us; and
+al<g ref="char:EOLhyphen"/>though the <hi>Cup</hi> of affliction hath been for a time inour ſacks
+mouth, yet in the end it ſhall produce good, to us <hi>Iſa.</hi> 63.8,9.
+Hee will not caſt off his people; when they rebelled he was wrath, yet he
+ſaid, <hi>Surely they are my people, I am their Saviour:</hi> Wherefore I
+be<g ref="char:EOLhyphen"/>ſeech you as the dumb ſon of <hi>Croeſus</hi> when he ſaw his Father
+about to be ſlain, though never before brake ſilence, and cryed out
+violently, the ſtrings of his tongue being looſed, <hi>Kill not King
+Croeſus;</hi> ſo upon the viſion of the ſad actings of theſe times,
+breake ſi<g ref="char:EOLhyphen"/>lence and ſeaſonably, every one cry out, <hi>Now the Lord of
+Peace himſelf give you peace alwayes, by all meanes.</hi>
+            </p>
+            <p>Thirdly, Becauſe we are all ſharers in the Church and
+Kingdomes peace, more or leſſe: every owner prayes and lookes after the
+ſafety of the ſhip, the Church of God is the ſhip, wherein our great
+joynt ſtock of Religion is imbarqued, and wee all beare a great adventure. It
+is at this day on a hazzardous voy<g ref="char:EOLhyphen"/>age, many ſeeming friends by their
+colours, ready to betray it: and what betwixt the Rocks of ſuperſtiti<g ref="char:EOLhyphen"/>on
+and Idolatry, and the quickſands of blaſphemy,<pb n="12" facs="tcp:114083:15"/>ſchiſme, and hereſie, it ſteeres ſadly, we, nor our
+po<g ref="char:EOLhyphen"/>ſterity, cannot ſtand after the loſſe; it will be their un<g ref="char:EOLhyphen"/>doing for
+ever: therefore now pray. Think it ſad to poyſon a pond, but a river much
+more: Oh think of your poſterity what truths ſtreamed to us in our Fa<g ref="char:EOLhyphen"/>thers
+blood, the Martyrs, let it run to our poſterity in ours, or tears: and let us
+proteſt againſt blaſphemy and errors: for jarring in <hi>Jeruſalem</hi>
+is a ſad and pro<g ref="char:EOLhyphen"/>digeous <hi>Omen:</hi> when the worſhippers in
+<hi>Jeruſalem</hi> were divided, the common enemy prevailed, <hi>Jer.</hi>
+7.28. <hi>This is a Nation that receiveth not diſcipline, truth is periſhed
+from them, clean gone out of their mouths:</hi> then read ver. 33. <hi>Then I
+will cauſe to ceaſe from the Cities of</hi> Judah <hi>and</hi> Jeruſalem,
+<hi>the voyce of mirth and gladneſſe, the land ſhall be deſolate.</hi>
+Jer. 8.19. <hi>The cry of the daughter of my people is great, for feare of them
+of a farre Country:</hi> Nay further, that you may ſee the neceſſity of
+ſeaſonable prayer, you may obſerve, our Saviour makes it a ſigne of the
+eternall ruine of the world, <hi>Mat.</hi> 24.1,2,3. They ſay, Maſter
+<hi>what ſigne wilt thou give us? Take heed none deceive you, for ma<g ref="char:EOLhyphen"/>ny
+ſhall come in my name, and deceive many.</hi> Many ſhall betray one
+another, hate one another, &amp;c. See <hi>Deut.</hi> 28.47,48,49,50. The
+diviſions amongſt the Primitive Chriſtians in the Eaſtern Churches,
+gave the Turk an opportunity to make them his vaſſals: when the Divines of
+<hi>Bohemia,</hi> and <hi>Germany,</hi> fell to diſcord, it proved a ſad
+time, and when the <hi>Pelagians</hi> had made their faction ſtrong, they
+ſet the whole Kingdome in a combuſtion: The Lord give us deli<g ref="char:EOLhyphen"/>verance from
+all factions and fractions from the truth of Jeſus Chriſt.</p>
+            <p>
+               <pb n="13" facs="tcp:114083:15"/>Fourthly it is an honourable deſigne, and
+ſuch be<g ref="char:EOLhyphen"/>come Chriſtians, it is noble to do good to one with the
+<hi>Samaritan;</hi> but to doe good to a nation; nay three nations, is
+<hi>Heroicall</hi> and well becomes Majeſty. Therefore now pray, yea excite
+all from <hi>Dan</hi> to <hi>Ber<g ref="char:EOLhyphen"/>ſheba,</hi> and let it be your motion to
+ſet apart a day of faſting and prayer that no apple of contention may grow
+in our Paradiſe of God his Church. Every bleſſed action becommeth you;
+this is not onely bleſ<g ref="char:EOLhyphen"/>ſed in it ſelf, but makes you bleſſed:
+<hi>Beati pacifici</hi> is in<g ref="char:EOLhyphen"/>tailed upon you. Now as peace in Religion is the
+greateſt bleſſing to a Kingdome, ſo to beget or con<g ref="char:EOLhyphen"/>ſerve this peace
+makes a man moſt bleſſed in a King<g ref="char:EOLhyphen"/>dome: and it is my ſoules deſire
+you may be yet bleſ<g ref="char:EOLhyphen"/>ſed of God and of your faithfull people.</p>
+            <p>
+               <hi>Fifth Motive.</hi>
+            </p>
+            <p>Our relation, yea neere relation to the Church and State, it is of
+us, we of it: The hurt of it will be our hurt: the bloud ſhed in warre, our
+bloud, wounds our wounds. It is a ſad ſpectacle and moves much for a
+Captaine or Commander in Chiefe to ſee but a forlorne hope or a few ſcouts
+come off in bloud; but to ſee a field ſpread with dead bodyes like dung as
+of late times, a piercing calamity. For a tender mother to ſee, not a childe,
+but all her children ſicke, puts her to an extacy of griefe, and importunity
+to ſeeke remedy: and that is the ſecond ſprigge of this <hi>Olive
+Branch:</hi> viz. That ſeaſonable and importunate pray<g ref="char:EOLhyphen"/>er to God, through
+Chriſt, is a ſure meanes to obtaine a firme laſting and well grounded
+peace.</p>
+            <p>And firſt I ſhould diſcover to you what I meane by
+importunity, and in a word, it is a prayer that will<pb n="14" facs="tcp:114083:16"/>take no
+nay of God; that if bare asking will not ſerve wee will ſeeke, if that doe
+not obtaine; we will be ſo bold as to knocke; that will not be put off with
+pri<g ref="char:EOLhyphen"/>mitive ſilence, or poſitive denyal, or any contumelious reproach;
+knowing well, as I ſaid before, that <hi>Finis o<g ref="char:EOLhyphen"/>perationis eſt opus</hi>
+for <hi>Sions</hi> ſake will not hold his peace, nor for
+<hi>Ieruſalems</hi> ſake give God no reſt, <hi>till he make it the
+prayſe of the earth.</hi>
+            </p>
+            <p>And truely we had ſped ſooner had we prayed bet<g ref="char:EOLhyphen"/>ter; not that
+prayer merits it, but it's Gods meanes to obtaine it.</p>
+            <p>There are ſeverall defects in prayer; and there are ſix, or
+ſeaven ſorts which will ſtand us in little ſtead.</p>
+            <p>Firſt, A Lazy prayer, God cannot away to have men reporters,
+when they ſhould bee Petitioners.</p>
+            <p>Secondly, Empty Prayers that are not full, for prayer is a powring
+out of the whole hearth to God. <hi>Pſal.</hi> 62.8. Now many powre out their
+wants, but not their ſins, men ſhould powre out their prayers like water
+not like Tar, the greateſt part ſticking behind.</p>
+            <p>Thirdly, Snatcht prayer, many give God a ragg of prayer, fitting
+your prayers to your buſineſſes, not a Kingdoms miſeries: or
+preſſing neceſſities, <hi>&amp;c.</hi>
+            </p>
+            <p>Fourthly, Silent prayers, neglecting that in our pray<g ref="char:EOLhyphen"/>er which God
+lookes we ſhould inſiſt on, <hi>Pſ,</hi> 32. <hi>Da<g ref="char:EOLhyphen"/>vid</hi> is ſaid
+to roare for the diſquietneſſe of his heart &amp; and yet was ſilent in
+relation to his blood-ſhed.</p>
+            <p>Fifthly, Seldome prayers, An Hypocrite can ſometimes pray, but a
+good Chriſtian prayes conti<g ref="char:EOLhyphen"/>nually, <hi>Dan.</hi> 3.</p>
+            <p>Sixthly, Lukewarme prayers, Prayers that can never boyle out the
+ſcumme of ſin or take away the<pb n="15" facs="tcp:114083:16"/>rawneſſe of our
+fleſhly part, <hi>Quifrigide orat oupit ne<g ref="char:EOLhyphen"/>gari,</hi> though you make many,
+<hi>Eſa.</hi> 7.</p>
+            <p>Seventhly, By-thoughted <hi>Prayers,</hi> like that unworthy
+Oratour, invocating heaven, looking to the Earth, but in this caſe doe as
+<hi>Abraham, Gen.</hi> 15.11. when the birds <hi>peck't his ſacrifice, hee
+huſht them away,</hi> ſo do thou, that thy prayers may prove an acceptable
+ſervice through Jeſus Chriſt.</p>
+            <p>
+               <hi>Quere,</hi> Sir, pray what need ſo much importunity?</p>
+            <p>
+               <hi>Sol.</hi> Firſt, in relation to Gods Majeſty, as in
+<hi>Eze<g ref="char:EOLhyphen"/>kiel</hi> 36. from <hi>ver.</hi> 23. to <hi>ver.</hi> 27. The Lord
+ſhews his people in miſery, rich mercies, and full compenſa<g ref="char:EOLhyphen"/>tions, that
+he hath in his hands, but yet read <hi>ver.</hi> 27. <hi>Thus ſaith the Lord
+God, I will yet for all this be inqui<g ref="char:EOLhyphen"/>red after by the houſe of</hi> Iſrael
+<hi>to doe it for them,</hi> &amp;c.</p>
+            <p>We have an homely Proverb, <hi>It is an ill dogge that is not
+worth a whiſtle.</hi> We find little want of, and leſſe eſteem, that
+mercy we omit in prayer. Princes freely contribute their favours, but to
+Petitioners. And God is the <hi>King of Kings:</hi> and I am yet boy'd up with
+hope, having hitherto rid out this ſtorme, on a good ground, with the
+Sheare-Anchor of Faith, that God will by all our evills refine us, not ruine
+us; cor<g ref="char:EOLhyphen"/>rect us, not deſtruct us; and bring us all a pretious and refined
+people, out of all our devouring flames, both gracious and glorious.</p>
+            <p>Secondly, in relation to mercy: mercy appears beſt when we
+blazen out our miſery: it is a diſgrace to mercy to come on the wing of
+lazie prayer, <hi>Herculii duri celebrant Labores: Samuel</hi> ſhall be
+dedicated to God, that is, obtained by prayer, and that mercy made much of, and
+hugg'd in the boſome, that is obtained<pb n="16" facs="tcp:114083:17"/>with the
+paſſion of the heart.</p>
+            <p>Thirdly, In relation to our ſelves: we would ſoone ſlight
+mercy if eaſily granted, <hi>Eſa.</hi> 44.23. Soone got<g ref="char:EOLhyphen"/>ten, ſoone
+forgotten: who prodigall away their eſtates ſooner then they that never
+ſwet to gaine a penny? <hi>Ier.</hi> 31.9. <hi>They ſhall come with
+weeping, and with ſup<g ref="char:EOLhyphen"/>plications will I lead them:</hi> as a gentleman leads
+a beg<g ref="char:EOLhyphen"/>ger: that penny that a man hath begg'd for all day, is not commonly idly
+ſpent away: ſo if your Majeſty and your three Kingdomes can but worke out
+their peace with God by prayer it will be the ſweeteſt mercy that ever lay
+upon the pallates of our ſoules: It will reliſh our ſpirits after all our
+bitter potions wee have taken to phyſicke us.</p>
+            <p>2 <hi>Quere</hi> Why are not men more importunate in prayer?</p>
+            <p>
+               <hi>Sol.</hi> Becauſe moſt are Romaniſts in this point and
+eſteeme prayer a pennance, an irkeſome thing: <hi>Mal.</hi> 1.13.
+<hi>Behold you ſay what a wearineſſe it is? yee have ſnuf<g ref="char:EOLhyphen"/>fed at it
+ſaith the Lord.</hi> A man can never be found a<g ref="char:EOLhyphen"/>bounding in that is tedious
+to him to performe, wee muſt count prayer a bleſſing if ever we will do
+good on it. Bleſſings are highly prized: I beſeech you ſet a high price
+on this kinde of prayer.</p>
+            <p>2 Many are Formaliſts, and like the Peach, that hath a ragged
+ſtone under a ſmooth skin: ſo many, un<g ref="char:EOLhyphen"/>der faire and ſpecious ſhewes
+and pretences, have ſtrange ſelfe ends, ſinfull ends and much
+raggedneſſe of Spirit. <hi>Now if I regard iniquity in my heart the Lord
+will not heare my prayer.</hi>
+            </p>
+            <p>Thirdly, Men are gentlemen-beggers, they are loath to have the
+world know they want, or would be<pb n="17" facs="tcp:114083:17"/>beholding to any, ſtand
+often upon this punctilio of Honour till they ſtarve, ſo of old; <hi>have
+not we Abra<g ref="char:EOLhyphen"/>ham to our Father why ſhould we be beholding to this Carpenters
+ſonne?</hi> Men are loath to be beholding to God through Chriſt: and truely
+none are ſo miſera<g ref="char:EOLhyphen"/>ble as they that hide their miſery: now it is good to
+move pitty to ſpread our miſerable condition before the Lord, and if ever
+there were more miſerable viſi<g ref="char:EOLhyphen"/>ons ſince mans fall then the evills of our
+times, I ap<g ref="char:EOLhyphen"/>peale, to urge God to heale and helpe us.</p>
+            <p>Fourthly, Men have ſtrang conceits of prayer: mean conceits of
+ſinne, a wrong conceit of God, and a baſe conceit of importunity, which I
+am inforced but to hint in relation to my time and this preſence.</p>
+            <p>3 <hi>Querie,</hi> Whither our prayers have beeue, or are prayers
+of Importunity?</p>
+            <p>
+               <hi>Sol.</hi> If thou in the faſhion and Image of thy ſoule
+have the ſtampe of <hi>Ieſus Chriſt.</hi> It is in all petitio<g ref="char:EOLhyphen"/>ning a
+great matter who petitions: the Spirit of ſup<g ref="char:EOLhyphen"/>plication is called the Spirit
+of Grace: <hi>Vnumquodque operatur ut eſt.</hi> The prayer of
+<hi>Moſes</hi> a man of God: <hi>mala conſcientia bene ſpirare non
+poteſt.</hi>
+            </p>
+            <p>Secondly, It is the prayer of a pure conſcience: it was of old
+writ over the doore of the Temple, let no impure conſcience enter here: all
+ſuch petitioners were to weake to wing it above the clouds, their prayers
+might well beat the aire but never arive to Knocke at the throne of Grace: the
+activity and ſtrength of prayer, as grounded on <hi>Chriſts</hi> merits,
+ſtil runs ſtrong<g ref="char:EOLhyphen"/>eſt in the channell of a good conſcience.</p>
+            <p>Thirdly, It is a prayer ful of reaſon, <hi>Iob</hi> 23.1,2,3,4.
+<hi>I will fill my mouth with arguments.</hi> A good Orator <pb n="18" facs="tcp:114083:18"/>before God is a good Logitian: ſhew God reaſon either from
+himſelfe, in relation to his promiſes, or faithfullneſſe, or in
+<hi>Ieſus Chriſt</hi> &amp;c.</p>
+            <p>4. It is a ſtout couragious prayer that will never give over but
+in victory, either with ſupply or ſupport: In Scripture it is called
+<hi>Wreſtling with God,</hi> it is ſuch a prayer as hath its affections
+rather inflamed then a bated by diſdaines and denyalls, <hi>Marke</hi> 7.24.
+It may in a holy ſenſe be called an impudent prayer, <hi>Luke</hi> 5.19.
+That man ſees ſuch neceſſity that being crowded out will come to
+<hi>Chriſt, or untile the houſe.</hi>
+            </p>
+            <p>And thus have I given you the reaſons why we muſt pray for
+peace ſeaſonably, <hi>Secondly,</hi> why we muſt pray importunately, and
+what importunity in relation to prayer is in its imperfections; and perfection:
+I come now to ſhew you the fountaine from whom we muſt, by this prayer,
+fetch this great mercy of a ſafe and well grounded peace. It is from the God
+of peace, or <hi>Prince of peace:</hi> from God through <hi>Ieſus
+Chriſt:</hi> Note I pray. It is <hi>Jeſus Chriſt</hi> is the ſweet
+riſe of all our rich mercies; eſpecially of this of peace, <hi>Eſay</hi>
+11.1. and <hi>Chap.</hi> 12. all thoſe mercyes in the 11 and 12 Chapter.
+which they were to injoy, flou<g ref="char:EOLhyphen"/>riſh and ſpring forth of the root of
+<hi>Jeſſe:</hi> And indeed peace is not a mercy if it come not from this
+fountain: you may call meteors ſtars, but they are of a more viſcous
+ſubſtance that fire by an <gap reason="foreign" resp="#OXF" extent="1 word">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> in
+and out immediately: you, if ignorant may thinke a skinning over to be a cure
+but it will break out again. 2 <hi>Sam.</hi> 11 <hi>Amnon</hi> thought he
+injoyed proſperity when hee was feaſting, but then death was preſent. 2
+<hi>Sam.</hi> 3.27. <hi>Abner</hi> thought all was peace when <hi>Ioab</hi>
+tooke him <pb n="19" facs="tcp:114083:18"/>aſide &amp; ſpake quietly to him, but then he
+<hi>ſmote him under the fifth rib that he dyed,</hi> For <hi>Aſabel</hi>
+his brother.</p>
+            <p>It is a ſweet thing when afflictions ariſe from Gods love, and
+lead us to Jeſus Chriſt for deliverance from them. There are varieties of
+mercies, and degrees of thoſe varieties: Chriſt is the firſt ſtep and
+the higheſt of thoſe degrees: and we ought not to be ſatisfied till we
+have them from the love of God in Chriſt. It was a great and rare viſion,
+<hi>Jacobs</hi> ladder. Every ſtep was a mercy above another, but that which
+raviſhed <hi>Jacob</hi> was, that they came from God by the way of Jeſus
+Chriſt the Ladder.</p>
+            <p>Firſt, in relation to Reallity of Peace in him, it is <hi>Yea
+and Amen,</hi> and an alwayes Peace. Other peaces are meere <hi>Spectrums,</hi>
+ſhaddows, apparitions, like <hi>So<g ref="char:EOLhyphen"/>domes</hi> apples, appeare beautifull to
+the eye, touch it, it vaniſheth to duſt. Like a candle, gives light for a
+time, but goes out in a ſtinck. This is as a houſe built on a rock, others
+as on a foundation of ſand. I beſeech you now lay a good foundation on Gods
+Peace.</p>
+            <p>Secondly, in relation to the diſcovery of peace; there is no
+light but the light that <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>mes from
+the Sun of righteouſneſſe, by which we can ſee the excellency of it, as
+to deſire it, or to receive it, <hi>In his light we ſee light.</hi> If we
+ſee it not come ſtreaming in his blood, it is not a well-grounded Peace. It
+comes as from an enemy to an enemy. And as heaven it ſelf would not be
+heaven, if Chriſt were not preſent: ſo will Peace be no peace, if
+Chriſt be not the Originall of it. The glory of the Mount was Chriſts
+preſence.</p>
+            <p>Thirdly, we have no right or title to Peace, but by him. There was
+no mercy founded for us before Je<g ref="char:EOLhyphen"/>ſus<pb n="18" facs="tcp:114083:19"/>
+               <gap reason="duplicate" resp="#OXF" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="19" facs="tcp:114083:19"/>
+               <gap reason="duplicate" resp="#OXF" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="20" facs="tcp:114083:20"/>Chriſt. All
+that ſhare in it are uſurpers: now what is it to weare rich apperell and
+owe for it liable to arreſts every moment? and to injoy peace and to ac<g ref="char:EOLhyphen"/>count
+for it to God for eternity?</p>
+            <p>Fourthly, If wee looke to the workings of mercy; for unleſſe
+we have them from this fountain, no mer<g ref="char:EOLhyphen"/>cy can be ſanctifyed unto us. Peace
+it ſelfe will har<g ref="char:EOLhyphen"/>den, not ſoften: we ſhall abuſe it, not rightly uſe
+it: it fats us to wrath, not feeds us to perfection. Men may riſe from a
+ſick bed, and a bed of warre, but they cannot <hi>goe away and ſin no
+more:</hi> They cannot <hi>take up their couch and follow Chriſt:</hi> they
+may promiſe faire, but are not able to performe but upon this ground.</p>
+            <p>Fiftly, Hee made it his deſigne from all eternity to bee ſo;
+and all the accumulated excellencies and riches, that he received in the
+God-head of his father, hee layed out and expended to this very end; that hee
+might be the meanes to convey peace from God the father to us, for hee needed
+none for himſelfe.</p>
+            <p>Uſe of Exhortation.</p>
+            <p>To all in the practice of this duty of ſeaſonable and
+importunate prayer to deſigne by the activity of faith: Firſt to diſcover
+Jeſus Chriſt, look out for Chriſt as Mariners at Sea for a Land-mark to
+their Port: Where they are to lade Riches for a good Voyage: If you can ſee
+the Fountain, water is at hand. If you can ſee the Sun, there is light to
+guide you in the way: See Chriſt, Peace will come eaſily: you need not
+queſtion lower favours. God will never ſtick to give your Ma<g ref="char:EOLhyphen"/>jeſty, or
+<hi>England</hi> Peace, if he give you the Prince of Peace, this is but as the
+Earneſt to the Bargaine: Settle, Chriſt in the three Kingdomes, and you
+ſet<g ref="char:EOLhyphen"/>tle<pb n="21" facs="tcp:114083:20"/>Peace I'le warrant you, and all bleſſings
+need<g ref="char:EOLhyphen"/>full below him: This will make Goſpel, Peace, and Truth, Staple
+Commodities: But if <hi>Naomi</hi> goe out of the Country, <hi>Ruth</hi> will
+not ſtay behinde. If Chriſt aſcend in a Cloud, the Diſciples will be
+gaz<g ref="char:EOLhyphen"/>ing upward, and reſtleſſe till they be with him. <hi>Riches, honour,
+&amp;c.</hi> all are at his heeles, and <hi>there are that fol<g ref="char:EOLhyphen"/>low the</hi>
+Lamb <hi>where ever he goeth.</hi>
+            </p>
+            <p>Uſe of Direction</p>
+            <p>Why are yee ſo dejected? <hi>why are your ſoules caſt down
+and diſquieted within you?</hi> what is it you want? in this juncture of time
+would any of you have peace? would you have it? ſeeke it ſeaſonably, and
+impor<g ref="char:EOLhyphen"/>tunatly in the way of Jeſus Chriſt: I dare aſſure you your wants:
+if you can but get to this <hi>Joſeph,</hi> feare not in a famine thy ſacks
+filling: his love, (although diſquieted with frownes at preſent,) cannot
+ſend de<g ref="char:EOLhyphen"/>firing hungery ſoules after peace empty away. <hi>Col.</hi> 1.19.
+Its Gods pleaſure wee ſhould come to this foun<g ref="char:EOLhyphen"/>taine for them, they have
+taken up their abode there, nor can you ſhew mee in any time a ſeeking
+ſoule that ever loſt his labour, Hee ever affords us ſupple<g ref="char:EOLhyphen"/>ment or
+ſupportment. Hee may try us for a time but at laſt, with <hi>Joſeph,</hi>
+will long to manifeſt his love and ſelfe to us.</p>
+            <p>Doth your Majeſty want councell what to doe in caſes of
+difficulty? how to ſteere the great ſhip in this ſtorme? I direct you to
+him whoſe name is <hi>Counſellor.</hi> Doe you want pardoning mercy? in his
+fullneſſe is all you want. Doth any man want grace to carry him through
+temptations? <hi>why his grace is ſuf<g ref="char:EOLhyphen"/>ficient for thee.</hi> Truely the
+defect is not in God, nor<pb n="22" facs="tcp:114083:21"/>in Jeſus Chriſt,
+goodneſſe, kindneſſe, but in our un<g ref="char:EOLhyphen"/>faithfullneſſe: That
+<hi>Hagar</hi> thirſted the fault was not in the well, but in her eyes that
+could not ſee it: There was no want in Gods aſſiſtance to his people,
+but the Prophets ſervants eyes, that could not ſee more with them, than
+againſt them. There was noe leſſe Love, Peace, Glory, Beauty, and Riches
+in Jeſus Chriſt when <hi>Saul</hi> perſecuted him, then when he preached
+him; but the ſcales were on his eyes.</p>
+            <p>Illuſt. As there is the ſame light and heate in the Sunne at
+all times, although dead men feele it not, nor blind men ſee not. So there is
+the ſame love in Chriſt to give us peace. Why then ſhould wee <hi>neglect
+ſo great ſalvation.</hi> I beſeech you follow after it with
+holineſſe, <hi>without which you cannot ſee God.</hi>
+            </p>
+            <p>Firſt Motive</p>
+            <p>He doth not only permit us as <hi>Laban</hi> permitted
+<hi>Jacob</hi> to love faire <hi>Rachel,</hi> but commands us to ſeeke after
+him; <hi>call upon me in the day of trouble and I will deliver you:</hi> you
+ſhall glorify mee, <hi>Aske, ſeeke, knock: If a child aske a father a
+fiſh will hee give him a Scorpi<g ref="char:EOLhyphen"/>on?</hi> nay hee expects, invites, intreates,
+&amp;c.</p>
+            <p>Firſt Illuſtration</p>
+            <p>Yea: as the viſible Sun toucheth every thing with its lively
+heate, and as the common lover of that below, doth impart unto them requifite
+vigor to pro<g ref="char:EOLhyphen"/>duce: ſo doth Jeſus Chriſt. I confeſſe of our ſelves
+wee can never attain to get peace: For naturally it is with us as with
+<hi>Ariſtotles</hi> reported bird called <hi>Apodes,</hi> whoſe legs are
+ſo ſhort they cannot uſe them, if once they light on the ground, they are
+not able to take flight, or to rayſe themſelves on their feete: but
+re<g ref="char:EOLhyphen"/>maine<pb n="23" facs="tcp:114083:21"/>puling and dying; unleſſe the power of ſome
+wind, with a favorable blaſt, beare them up; and then they make uſe of
+their wings. Wee are naturally like theſe birds in relation to our flight to
+Jeſus Chriſt for any mercy, till his ſpirit as wind act us to him.</p>
+            <p>Second Illuſtration</p>
+            <p>Then as the unhooded Hawke, having got her prey in view, doth
+ſuddenly launch her ſelfe upon the wing, and being held in her leach
+ſtruggles upon the hand with extream ardour. So faith, having drawn the vaile
+of ignorance, and got a diſcovery of the ſove<g ref="char:EOLhyphen"/>raigne good of peace, cannot
+be ſatisfied but in ſeek<g ref="char:EOLhyphen"/>ing after it in Chriſt: and as teares, were
+<hi>Davids</hi> practice ſo long as God ſeemed to bee abſent: ſo prayer
+is their dayly practiſe, their obedience ecchoing to Gods command, till they
+doe injoy this peace.</p>
+            <p>2 <hi>Motive,</hi> Becauſe if you practiſe ſeaſonable and
+importunate prayer this way; you may be ſure al<g ref="char:EOLhyphen"/>though you preſently have
+not a return of your prayer in the preſent injoyment of a ſetled peace; if
+you have it not, he will be with you in your trouble and afflicti<g ref="char:EOLhyphen"/>ons as he was
+in the flaming buſh and with the three children in the furnace. They loſt
+nothing by it, they appeare moſt glorious in it: If the waters increaſe,
+the Arke and all in it get neerer heaven by it, there's all the inconvenience.
+Yea the time ſhall come that you ſhall ſay with <hi>David, It is good for
+mee that</hi> I <hi>was ſo af<g ref="char:EOLhyphen"/>flicted;</hi> All this ſhall worke for the
+beſt, when once you are interreſſed in the Prince of Peace. Therefore now
+if ever, I beſeech you with the preſſing deſires of my ſoule to lay
+this ſure foundation of peace, through <hi>Jeſus Chriſt,</hi> with your
+God; and heartily, and joyfully<pb n="24" facs="tcp:114083:22"/>incline to ſpell out Gods
+owne meaning in all the actings of his providence, that ſhall as meanes be
+pre<g ref="char:EOLhyphen"/>ſented to you from your great and faithfull Councel<g ref="char:EOLhyphen"/>lors, for the framing
+out and perfecting that glorious Architect that may make you as glorious to
+poſterity, as <hi>Solomon</hi> for building a houſe for his God, and may be
+a ſhelter for the people of God in your three Kingdomes; and the defence of
+you and your poſteri<g ref="char:EOLhyphen"/>ty from the violent ſtormes of forraigne enemyes;
+which that you may with all cheerefulneſſe act, as an Emminent Inſtrument
+in this oportunity, Let us all with all importunity ſeeke God with humble and
+ſincere Spirits.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:114083:22"/>
+         </div>
+      </body>
+   </text>
+</TEI>
